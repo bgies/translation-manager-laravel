@@ -5,7 +5,7 @@
         "Translation",
         "laravel",
         "Translate",
-        ":package_name"
+        "translation-manager-laravel"
     ],
     "homepage": "https://github.com/bgies/translation-manager-laravel",
     "license": "MIT",
